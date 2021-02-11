@@ -2,7 +2,7 @@
 # link to [This repository](https://github.com/09hrick/cn-java-sols) 
 enjoy having full marks 💯 😍
 now answers avaible up to Two Dimensional Arrays (Assignment)
-# contents:
+# Contents:
 ## 01. [Getting Started with Java](https://github.com/09hrick/cn-java-sols/tree/main/01.%20Getting%20Started%20with%20Java)
 ## 02. [How is Data Stored](https://github.com/09hrick/cn-java-sols/tree/main/02.%20How%20is%20Data%20Stored)
 ## 03. [Conditionals and Loops](https://github.com/09hrick/cn-java-sols/tree/main/03.%20Conditionals%20and%20Loops)
@@ -16,6 +16,12 @@ now answers avaible up to Two Dimensional Arrays (Assignment)
 ## 11. [Arrays Part 2 (Assignment)](https://github.com/09hrick/cn-java-sols/tree/main/11.%20Arrays%20Part%202%20(Assignment))
 ## 12. [Two Dimensional Arrays](https://github.com/09hrick/cn-java-sols/tree/main/12.%20Two%20Dimensional%20Arrays)
 ## 13. [Two Dimensional Arrays (Assignment)](https://github.com/09hrick/cn-java-sols/tree/main/13.%20Two%20Dimensional%20Arrays%20(Assignment))
+# Follow me on social media
+* Reddit: [/u/09_hrick](https://www.reddit.com/user/09_hrick)
+* Twitter: [hrick_09](https://twitter.com/hrick_09)
+* Discord: [hrick_09#0602](https://discordapp.com/users/hrick_09#0602)
+* Instagram: [09_hrick](https://www.instagram.com/09_hrick/)
+* Linkedin: [sanyam-mahajan](https://www.linkedin.com/in/sanyam-mahajan-3934711b5/)
 
 ```                                                                                 
                                                                                                                                
