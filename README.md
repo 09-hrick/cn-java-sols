@@ -2,7 +2,7 @@
 # Link to [This repository](https://github.com/09hrick/cn-java-sols) 
 _enjoy having full marks 💯 😍_
 
-**now answers avaible up to Two Dimensional Arrays (Assignment)**
+**now answers avaible up to Two Dimensional Arrays (Assignment)** 💻
 # Contents 📚:
 ## 01. [Getting Started with Java](https://github.com/09hrick/cn-java-sols/tree/main/01.%20Getting%20Started%20with%20Java)
 ## 02. [How is Data Stored](https://github.com/09hrick/cn-java-sols/tree/main/02.%20How%20is%20Data%20Stored)
