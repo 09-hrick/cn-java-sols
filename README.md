@@ -1,6 +1,6 @@
 # cn-java-sols (⌐■_■)
 # *link to [This repository](https://github.com/09hrick/cn-java-sols) 
-enjoy having full marks 💯 😍
+enjoy having full marks 💯 😍*
 now answers avaible up to Two Dimensional Arrays (Assignment)
 # Contents:
 ## 01. [Getting Started with Java](https://github.com/09hrick/cn-java-sols/tree/main/01.%20Getting%20Started%20with%20Java)
