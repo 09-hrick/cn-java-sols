@@ -1,6 +1,6 @@
 # cn-java-sols
 enjoy having full marks
-now answers avaible up to Arrays Part 2 (Assignment)
+now answers avaible up to Two Dimensional Arrays (Assignment)
 ````                                                                                 
                                                                                                                                
                                                                                                     
