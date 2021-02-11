@@ -1,4 +1,5 @@
 # cn-java-sols (⌐■_■)
+# link to [This repository](https://github.com/09hrick/cn-java-sols) 
 enjoy having full marks 💯 😍
 now answers avaible up to Two Dimensional Arrays (Assignment)
 # contents:
