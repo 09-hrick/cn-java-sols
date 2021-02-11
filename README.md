@@ -2,14 +2,14 @@
 enjoy having full marks 💯 😍
 now answers avaible up to Two Dimensional Arrays (Assignment)
 # contents:
-## 01. Getting Started with Java
-## 02. How is Data Stored
-## 03. Conditionals and Loops
-## 04. Patterns Part 1
-## 05. Patterns Part 2
-## 06. Operators & For Loop
-## 07. Test-1
-## 08. Functions & Scope
+## [01. Getting Started with Java](https://github.com/09hrick/cn-java-sols/tree/main/01.%20Getting%20Started%20with%20Java)
+## [02. How is Data Stored](https://github.com/09hrick/cn-java-sols/tree/main/02.%20How%20is%20Data%20Stored)
+## [03. Conditionals and Loops](https://github.com/09hrick/cn-java-sols/tree/main/03.%20Conditionals%20and%20Loops)
+## [04. Patterns Part 1](https://github.com/09hrick/cn-java-sols/tree/main/04.%20Patterns%20Part%201)
+## [05. Patterns Part 2](https://github.com/09hrick/cn-java-sols/tree/main/05.%20Patterns%20Part%202)
+## [06. Operators & For Loop](https://github.com/09hrick/cn-java-sols/tree/main/06.%20Operators%20%26%20For%20Loop)
+## [07. Test-1](https://github.com/09hrick/cn-java-sols/tree/main/07.%20Test-1)
+## 08. [Functions & Scope](https://github.com/09hrick/cn-java-sols/tree/main/08.%20Functions%20%26%20Scope)
 ## 09. Arrays Part 1
 ## 10. Arrays Part 2
 ## 11. Arrays Part 2 (Assignment)
