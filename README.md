@@ -3,7 +3,7 @@
 _enjoy having full marks 💯 😍_
 
 **now answers avaible up to Two Dimensional Arrays (Assignment)**
-# Contents:
+# Contents 📚:
 ## 01. [Getting Started with Java](https://github.com/09hrick/cn-java-sols/tree/main/01.%20Getting%20Started%20with%20Java)
 ## 02. [How is Data Stored](https://github.com/09hrick/cn-java-sols/tree/main/02.%20How%20is%20Data%20Stored)
 ## 03. [Conditionals and Loops](https://github.com/09hrick/cn-java-sols/tree/main/03.%20Conditionals%20and%20Loops)
