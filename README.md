@@ -1,5 +1,5 @@
 # cn-java-sols (⌐■_■)
-# link to [This repository](https://github.com/09hrick/cn-java-sols) 
+# *link to [This repository](https://github.com/09hrick/cn-java-sols) 
 enjoy having full marks 💯 😍
 now answers avaible up to Two Dimensional Arrays (Assignment)
 # Contents:
@@ -16,7 +16,7 @@ now answers avaible up to Two Dimensional Arrays (Assignment)
 ## 11. [Arrays Part 2 (Assignment)](https://github.com/09hrick/cn-java-sols/tree/main/11.%20Arrays%20Part%202%20(Assignment))
 ## 12. [Two Dimensional Arrays](https://github.com/09hrick/cn-java-sols/tree/main/12.%20Two%20Dimensional%20Arrays)
 ## 13. [Two Dimensional Arrays (Assignment)](https://github.com/09hrick/cn-java-sols/tree/main/13.%20Two%20Dimensional%20Arrays%20(Assignment))
-# Follow me on social media
+# **Follow me on social media**
 * Reddit: [/u/09_hrick](https://www.reddit.com/user/09_hrick)
 * Twitter: [hrick_09](https://twitter.com/hrick_09)
 * Discord: [hrick_09#0602](https://discordapp.com/users/hrick_09#0602)
