@@ -11,7 +11,7 @@ now answers avaible up to Two Dimensional Arrays (Assignment)
 ## 07. Test-1
 ## 08. Functions & Scope
 ## 09. Arrays Part 1
-## 0. Arrays Part 2
+## 10. Arrays Part 2
 ## 11. Arrays Part 2 (Assignment)
 ## 12. Two Dimensional Arrays
 ## 13. Two Dimensional Arrays (Assignment)
