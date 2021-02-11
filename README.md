@@ -1,5 +1,5 @@
-# cn-java-sols
-enjoy having full marks
+# cn-java-sols (⌐■_■)
+enjoy having full marks 💯 😍
 now answers avaible up to Two Dimensional Arrays (Assignment)
 ````                                                                                 
                                                                                                                                
