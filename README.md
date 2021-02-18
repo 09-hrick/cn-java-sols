@@ -2,7 +2,7 @@
 # Link to [This repository](https://github.com/09hrick/cn-java-sols) 
 _enjoy having full marks 💯 😍_
 
-**now answers avaible up to Two Dimensional Arrays (Assignment)** 💻
+**now answers avaible up to  Strings (Assignment)** 💻
 # Contents 📚:
 ## 01. [Getting Started with Java](https://github.com/09hrick/cn-java-sols/tree/main/01.%20Getting%20Started%20with%20Java)
 ## 02. [How is Data Stored](https://github.com/09hrick/cn-java-sols/tree/main/02.%20How%20is%20Data%20Stored)
@@ -17,6 +17,11 @@ _enjoy having full marks 💯 😍_
 ## 11. [Arrays Part 2 (Assignment)](https://github.com/09hrick/cn-java-sols/tree/main/11.%20Arrays%20Part%202%20(Assignment))
 ## 12. [Two Dimensional Arrays](https://github.com/09hrick/cn-java-sols/tree/main/12.%20Two%20Dimensional%20Arrays)
 ## 13. [Two Dimensional Arrays (Assignment)](https://github.com/09hrick/cn-java-sols/tree/main/13.%20Two%20Dimensional%20Arrays%20(Assignment))
+## 14. [Test 2](https://github.com/09hrick/cn-java-sols/tree/main/14.%20Test%202)
+## 15. [OOP Part 1](https://github.com/09hrick/cn-java-sols/tree/main/15.%20OOP%20Part%201)
+## 16. [OOP Part 2](https://github.com/09hrick/cn-java-sols/tree/main/16.%20OOP%20Part%202)
+## 17. [Strings](https://github.com/09hrick/cn-java-sols/tree/main/17.%20Strings)
+## 18 [Strings (Assignment)](https://github.com/09hrick/cn-java-sols/tree/main/18.%20Strings%20(Assignment))
 # _**Follow me on social media**_
 * Reddit: [/u/09_hrick](https://www.reddit.com/user/09_hrick)
 * Twitter: [hrick_09](https://twitter.com/hrick_09)
