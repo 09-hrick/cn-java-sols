@@ -28,6 +28,7 @@ _enjoy having full marks 💯 😍_
 * Discord: [hrick_09#0602](https://discordapp.com/users/hrick_09#0602)
 * Instagram: [09_hrick](https://www.instagram.com/09_hrick/)
 * Linkedin: [sanyam-mahajan](https://www.linkedin.com/in/sanyam-mahajan-3934711b5/)
+* Whatsapp: [Contact Me](http://api.whatsapp.com/send?phone=12897683280)
 
 ```                                                                                 
                                                                                                                                
