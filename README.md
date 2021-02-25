@@ -1,5 +1,7 @@
 # cn-java-sols (⌐■_■)
 # Link to [This repository](https://github.com/09-hrick/cn-java-sols) 
+
+# Other similar repository of my friend [Link](https://github.com/Rudrakshh/CODING-NINJAS-OOPS-SOLUTION) 🤩\
 _enjoy having full marks 💯 😍_
 
 **now answers avaible up to  Strings (Assignment)** 💻
